@@ -12,8 +12,8 @@ obsługiwać zadania podzielone na trzy kolumny, takie jak Do zrobienia (To Do),
 - Qt
 
 ### Architektura systemu
-![Diagram UML](https://github.com/oliwiatarent/Kanban-Board/diagram-uml.png)
+![Diagram UML](https://github.com/oliwiatarent/Kanban-Board/blob/main/diagram-uml.png)
 
 ### Przypadki użycia
-![Przypadki użycia](https://github.com/oliwiatarent/Kanban-Board/przypadki-uzycia.png)
+![Przypadki użycia](https://github.com/oliwiatarent/Kanban-Board/blob/main/przypadki-uzycia.png)
 
